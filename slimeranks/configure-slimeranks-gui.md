@@ -3,6 +3,17 @@ description: >-
   Here you will learn how to use the SlimeRanks GUI and configure/modify ranks
   with the GUI.
 icon: display
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Configure SlimeRanks (GUI)
@@ -28,7 +39,7 @@ Please note that you need the `slimeranks.admin` permission or `OP` for this
 {% step %}
 ### Start the process
 
-To start the rank creation process, click on the Crafting Table at the bottom right.\
+To start the rank creation process, click on the crafting table at the bottom right.\
 Afterwards, the GUI will close.
 {% endstep %}
 
@@ -47,3 +58,20 @@ In the next section, you'll learn how and what you can
 {% endstepper %}
 
 ## 🖊️ Customize a rank
+
+Now you want to configure your ranks to match your server theme.\
+This section explains what each item does and how you can configure it.
+
+To configure a rank, you must first open the GUI if it doesn't open automatically after creating a rank.\
+You can open it with `/slimeranks gui`. In the open GUI, select the rank you want to configure.
+
+#### Tablist format (JUNGLE\_SIGN)
+
+&#x20;
+
+#### Chat format (WRITABLE\_BOOK)
+
+
+
+#### Name tag format (NAME\_TAG)
+
