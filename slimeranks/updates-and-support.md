@@ -43,7 +43,7 @@ Once support for a Minecraft version is dropped:
 
 In short: That version is no longer maintained.
 
-### Why do we sometimes raise the base version _even_ if it still works?
+### Why do we sometimes raise the base version even if it still works?
 
 Sometimes we drop support for older versions even if nothing is broken. Reasons for that might be:
 
