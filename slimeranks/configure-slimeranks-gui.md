@@ -65,13 +65,65 @@ This section explains what each item does and how you can configure it.
 To configure a rank, you must first open the GUI if it doesn't open automatically after creating a rank.\
 You can open it with `/slimeranks gui`. In the open GUI, select the rank you want to configure.
 
-#### Tablist format (JUNGLE\_SIGN)
+#### Tablist format <sub>(JUNGLE\_SIGN)</sub>
 
-&#x20;
+The <mark style="color:green;">Tablist format</mark> defines how the rank should be displayed in the tablist.\
+By clicking on the item, you can change the format by typing it in the chat.\
+\
+To display the player name, you can simply use `{player}`, which will be replaced with the player's name who has the rank.
 
-#### Chat format (WRITABLE\_BOOK)
+#### Chat format <sub>(WRITABLE\_BOOK)</sub>
 
+The <mark style="color:green;">Chat format</mark> determines how the rank is displayed in the chat.\
+By clicking on the item, you can change the format by typing in the chat.\
+\
+To display the player name, you can simply use `{player}`, which will be replaced with the player's name who has the rank.\
+To display the message the player wants to send, use⁣ `{message}`.
 
+#### Name tag format <sub>(NAME\_TAG)</sub>
 
-#### Name tag format (NAME\_TAG)
+The <mark style="color:green;">Name tag format</mark> defines how the rank should be displayed above the player.\
+By clicking on the item, you can change the format by typing it in the chat.\
+\
+To display the player name, you can simply use `{player}`, which will be replaced with the player's name who has the rank.
 
+#### Rank priority <sub>(ANVIL)</sub>
+
+The <mark style="color:green;">Rank priority</mark> is used to manage which rank a player should have when there are multiple options.\
+A player will use the rank with the highest priority available to him.\
+\
+To change the rank priority simply click on the item and enter the desired rank priority as a number in the chat.
+
+#### Permission <sub>(FLOWER\_BANNNER\_PATTERN)</sub>
+
+The <mark style="color:green;">Permission</mark> determines which permission a player must have to obtain the rank.
+
+By default, a rank will get a permission in the following format: `slimeranks.rank.<rank_identifier>`.\
+When creating a new rank, ensure the right players get this permission to display the rank correctly.
+
+If you want every player to get this rank by default, you can remove the permission by using shift-click on the item.\
+To change the permission, simply click the item and enter the desired permission into the chat.
+
+#### Tab priority <sub>(NETHERITE\_UPGRADE\_SMITHING\_TEMPLATE)</sub>
+
+The <mark style="color:green;">Tab priority</mark> determines how the rank is sorted in the tab list.\
+A higher number places the rank higher on the list.\
+If the value is 0, no sorting is performed.\
+\
+To change the tab priority, simply click the item and enter the desired priority number in the chat.
+
+#### Hide name tag on sneak <sub>(ENDER\_EYE)</sub>
+
+The <mark style="color:green;">Hide name tag on sneak</mark> setting determines whether the player's name tag should be hidden when the player sneaks, or only not be visible through walls.
+
+By default, this setting is deactivated to match the vanilla sneaking behavior.
+
+To enable the feature, click the dye below the item.
+
+#### Colored Chat Messages <sub>(GLOW\_INC\_SAC)</sub>
+
+The <mark style="color:green;">Colored Chat Messages</mark> setting determines whether a player with this rank is allowed to use color codes to customize their chat messages.
+
+The color code format would look something like `<green>hey`. To generate messages with color codes, we recommend using the [MiniMessage Viewer](https://webui.advntr.dev/).
+
+To enable or disable the feature, click the button below this item.
