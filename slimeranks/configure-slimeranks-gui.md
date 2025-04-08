@@ -68,30 +68,30 @@ You can open it with `/slimeranks gui`. In the open GUI, select the rank you wan
 #### Tablist format <sub>(JUNGLE\_SIGN)</sub>
 
 The <mark style="color:green;">Tablist format</mark> defines how the rank should be displayed in the tablist.\
-By clicking on the item, you can change the format by typing it in the chat.\
-\
+By clicking on the item, you can change the format by typing it in the chat.
+
 To display the player name, you can simply use `{player}`, which will be replaced with the player's name who has the rank.
 
 #### Chat format <sub>(WRITABLE\_BOOK)</sub>
 
 The <mark style="color:green;">Chat format</mark> determines how the rank is displayed in the chat.\
-By clicking on the item, you can change the format by typing in the chat.\
-\
+By clicking on the item, you can change the format by typing in the chat.
+
 To display the player name, you can simply use `{player}`, which will be replaced with the player's name who has the rank.\
 To display the message the player wants to send, use⁣ `{message}`.
 
 #### Name tag format <sub>(NAME\_TAG)</sub>
 
 The <mark style="color:green;">Name tag format</mark> defines how the rank should be displayed above the player.\
-By clicking on the item, you can change the format by typing it in the chat.\
-\
+By clicking on the item, you can change the format by typing it in the chat.
+
 To display the player name, you can simply use `{player}`, which will be replaced with the player's name who has the rank.
 
 #### Rank priority <sub>(ANVIL)</sub>
 
 The <mark style="color:green;">Rank priority</mark> is used to manage which rank a player should have when there are multiple options.\
-A player will use the rank with the highest priority available to him.\
-\
+A player will use the rank with the highest priority available to him.
+
 To change the rank priority simply click on the item and enter the desired rank priority as a number in the chat.
 
 #### Permission <sub>(FLOWER\_BANNNER\_PATTERN)</sub>
@@ -108,8 +108,8 @@ To change the permission, simply click the item and enter the desired permission
 
 The <mark style="color:green;">Tab priority</mark> determines how the rank is sorted in the tab list.\
 A higher number places the rank higher on the list.\
-If the value is 0, no sorting is performed.\
-\
+If the value is 0, no sorting is performed.
+
 To change the tab priority, simply click the item and enter the desired priority number in the chat.
 
 #### Hide name tag on sneak <sub>(ENDER\_EYE)</sub>

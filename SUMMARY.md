@@ -10,6 +10,6 @@
   * [config.yml](slimeranks/configure-slimeranks-config/config.yml.md)
   * [messages.yml](slimeranks/configure-slimeranks-config/messages.yml.md)
   * [ranks.yml](slimeranks/configure-slimeranks-config/ranks.yml.md)
-* [Commands & Permissions](slimeranks/commands-and-permissions.md)
+* [Commands & Permissions](slimeranks/commands.md)
 * [FAQ](slimeranks/faq.md)
 * [Updates and Support](slimeranks/updates-and-support.md)
