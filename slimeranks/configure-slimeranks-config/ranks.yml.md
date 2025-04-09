@@ -1,4 +1,5 @@
 ---
+icon: file-code
 layout:
   title:
     visible: true
