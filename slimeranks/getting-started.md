@@ -15,7 +15,7 @@ layout:
 
 # Getting started
 
-## 📥How to install SlimeRanks
+## 📥 How to install SlimeRanks
 
 {% stepper %}
 {% step %}
@@ -38,7 +38,7 @@ That's it; you successfully installed SlimeRanks on your server. Now you're free
 {% endstep %}
 {% endstepper %}
 
-## ⚙️How to configure SlimeRanks
+## ⚙️ How to configure SlimeRanks
 
 I've tried to make the usage and configuration of SlimeRanks as easy and as powerful as possible. So there are two primary methods to configure SlimeRanks ranks after your needs.
 

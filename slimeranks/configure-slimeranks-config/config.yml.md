@@ -17,7 +17,7 @@ layout:
 
 In the <mark style="color:green;">config.yml</mark>, which is located under `plugins/SlimeRanks/`, you have the option to make minor adjustments that are not directly related to ranks or messages. These settings are completely optional, and the default values are well-optimized to meet the average use case.
 
-## Overview of all settings
+## 📃 Overview of all settings
 
 | Config Key                | Default Value | Description                                                                                                                                                                                                                                                                                                                                                                                                                |
 | ------------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
