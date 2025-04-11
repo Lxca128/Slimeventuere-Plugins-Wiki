@@ -15,7 +15,7 @@ layout:
 
 # Commands & Permissions
 
-To make the most out of SlimeRanks, there are a few handy commands you might want to know. They're totally optional, so no worries if you don't use them—SlimeRanks will still do its thing! But using these commands can make the setup a lot easier.
+To make the most out of SlimeRanks, there are a few handy commands you might want to know. They're totally optional, so no worries if you don't use them; SlimeRanks will still do its thing! But using these commands can make the setup a lot easier.
 
 | Command              | Description                           | Permission         |
 | -------------------- | ------------------------------------- | ------------------ |

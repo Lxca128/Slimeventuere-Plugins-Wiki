@@ -13,3 +13,11 @@
 * [Commands & Permissions](slimeranks/commands.md)
 * [FAQ](slimeranks/faq.md)
 * [Updates and Support](slimeranks/updates-and-support.md)
+
+***
+
+* [Tutorials](tutorials/README.md)
+  * [How to use custom textures](tutorials/how-to-use-custom-textures.md)
+  * [How to use placeholders](tutorials/how-to-use-placeholders.md)
+  * [How to create a rank hierarchy](tutorials/how-to-create-a-rank-hierarchy.md)
+  * [How to order ranks in the tab](tutorials/how-to-order-ranks-in-the-tab.md)

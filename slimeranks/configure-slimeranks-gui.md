@@ -26,7 +26,7 @@ These are the two GUI pages used to provide an overview of all existing ranks an
 
 ## 🆕 How to create a new rank
 
-Creating a new rank is quite simple. Just follow these steps and you'll have your own rank set up in
+Creating a new rank is quite simple. Just follow these steps, and you'll have your own rank set up in a couple of seconds.
 
 {% stepper %}
 {% step %}
