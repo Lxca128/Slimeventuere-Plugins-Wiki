@@ -11,6 +11,7 @@
   * [messages.yml](slimeranks/configure-slimeranks-config/messages.yml.md)
   * [ranks.yml](slimeranks/configure-slimeranks-config/ranks.yml.md)
 * [Commands & Permissions](slimeranks/commands.md)
+* [Placeholders](slimeranks/placeholders.md)
 * [FAQ](slimeranks/faq.md)
 * [Updates and Support](slimeranks/updates-and-support.md)
 
